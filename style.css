@@ -119,6 +119,11 @@ span{
     font-weight: 700;
 }
 
+.home .home-content p{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
 .home-img img{
     position:relative;
     width:26vw;
@@ -234,7 +239,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 500px;
+    height: 450px;
     max-width: 300px;
     margin-right: 70px;
 }
